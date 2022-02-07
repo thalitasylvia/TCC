@@ -1,0 +1,20 @@
+antecedents;consequents;support;confidence
+frozenset({'idade_avancada', 'Doenca Neurologica'});frozenset({'Obito'});0.010532171733811511;0.5619056766881183
+frozenset({'Genero_Masculino', 'Outros Fatores De Risco', 'Cardiopatia', 'idade_avancada'});frozenset({'Obito'});0.012642206823046911;0.5159820706885149
+frozenset({'Genero_Masculino', 'Outros Fatores De Risco', 'Diabetes', 'idade_avancada'});frozenset({'Obito'});0.010742815168487742;0.5066655345164304
+frozenset({'Doenca Neurologica'});frozenset({'Obito'});0.012517981207725033;0.503439287524437
+frozenset({'Outros Fatores De Risco', 'Diabetes', 'idade_avancada', 'Cardiopatia'});frozenset({'Obito'});0.01083463410155174;0.4976021167521085
+frozenset({'Obesidade', 'idade_avancada'});frozenset({'Obito'});0.011266723198323494;0.49392265193370166
+frozenset({'Genero_Masculino', 'idade_avancada', 'Outros Fatores De Risco'});frozenset({'Obito'});0.02821361764795901;0.4879499314983186
+frozenset({'Outros Fatores De Risco', 'Cardiopatia', 'idade_avancada'});frozenset({'Obito'});0.023231990436427992;0.48145660771584214
+frozenset({'Pneumopatia'});frozenset({'Obito'});0.011192907977624986;0.47396508347945415
+frozenset({'Outros Fatores De Risco', 'Diabetes', 'idade_avancada'});frozenset({'Obito'});0.020270379752304925;0.47185784334269304
+frozenset({'Outros Fatores De Risco', 'Diabetes', 'Cardiopatia'});frozenset({'Obito'});0.013497383160407677;0.46143903489875054
+frozenset({'Genero_Masculino', 'Cardiopatia', 'Outros Fatores De Risco'});frozenset({'Obito'});0.016190738530284944;0.45293376983127676
+frozenset({'Outros Fatores De Risco', 'idade_avancada'});frozenset({'Obito'});0.051494218107773826;0.45190545408582444
+frozenset({'Genero_Masculino', 'Diabetes', 'Outros Fatores De Risco'});frozenset({'Obito'});0.014059098986210957;0.4482778415614237
+frozenset({'Diabetes', 'Obesidade'});frozenset({'Obito'});0.010046071499943288;0.43871373535655317
+frozenset({'Outros Fatores De Risco', 'Cardiopatia'});frozenset({'Obito'});0.02951528605198392;0.42636082286546517
+frozenset({'Outros Fatores De Risco', 'Diabetes'});frozenset({'Obito'});0.026379039357915603;0.4214341185607041
+frozenset({'Cardiopatia', 'Obesidade'});frozenset({'Obito'});0.013475778705569088;0.4147963424771404
+frozenset({'Genero_Masculino', 'Outros Fatores De Risco'});frozenset({'Obito'});0.03973419319063591;0.38515235070329135
